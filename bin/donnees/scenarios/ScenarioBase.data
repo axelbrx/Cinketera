@@ -1,0 +1,28 @@
+[PARAMETRE]
+[CARTES]
+[ILES]
+
+1 : 5 cartes primaires donc change manche
+1 : faire 1 ile passé par 2 couleurs Khont-Rolah 
+1 : passer tour
+2 : croisement
+2 : partir de l'autre extrémité puis passer tourss
+3 : cycle
+4 : fin de partie
+5 : déjà colorié 
+5 : croisé sur une autre couleur  kiola
+6 : début de partie île de départ
+7 : avenants 
+
+brun	jaune	joker	vert	violet	
+brun	jaune	joker	vert	violet	primaire
+
+1 : primaire
+0 : pas primaire
+
+// supprimable
+
+  est déjà passer ? |   est primaire = 0
+! est déjà passer ? |   est primaire = 1
+  est déjà passer ? | ! est primaire = 2
+! est déjà passer ? | ! est primaire = 3

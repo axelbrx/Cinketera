@@ -1,0 +1,12 @@
+[ORDRE_CARTE]
+[ROUTES_SELECTIONNER]
+
+1	2	3 : cycle
+4 : fin de tour
+
+joker	vert	violet	jaune	brun
+
+  est déjà passer ? |   est primaire = 0
+! est déjà passer ? |   est primaire = 1
+  est déjà passer ? | ! est primaire = 2
+! est déjà passer ? | ! est primaire = 3

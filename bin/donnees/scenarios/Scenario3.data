@@ -1,0 +1,24 @@
+[PARAMETRE]
+BLEU
+-1
+[CARTES]
+primaire	Jaune
+pas primaire	Violet
+primaire	Violet
+pas primaire	Vert
+pas primaire	Jaune
+primaire	Brun
+primaire	Vert
+pas primaire	Joker
+primaire	Joker
+pas primaire	Jaune
+primaire	Jaune
+pas primaire	Vert
+pas primaire	Brun
+primaire	Violet
+primaire	Brun
+pas primaire	Joker
+[ILES]
+Milaù
+Loà
+Loümu

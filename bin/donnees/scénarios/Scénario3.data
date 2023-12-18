@@ -1,0 +1,20 @@
+[ORDRE_CARTE]
+2	violet
+[ROUTES_SELECTIONNER]
+R	Loümu	Laçao
+R	Laçao	Tokha
+R	Tokha	Tavula
+R	Tavula	Tiamù
+R	Tiamù	Ticó
+R	Ticó	Kita
+R	Kita	Kosa
+R	Kosa	Kiola
+R	Kiola	Fuego
+R	Fuego	Fama
+R	Fama	Finista
+R	Finista	Fissah
+R	Fissah	Mokah
+R	Mokah	Maÿa
+R	Maÿa	Massao
+R	Massao	Milaù
+R	Milaù	Loà

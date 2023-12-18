@@ -1,0 +1,39 @@
+[PARAMETRE]
+BLEU
+-1
+[CARTES]
+primaire	Brun
+pas primaire	Violet
+pas primaire	Brun
+primaire	Vert
+pas primaire	Jaune
+primaire	Joker
+primaire	Jaune
+primaire	Violet
+primaire	Joker
+pas primaire	Jaune
+primaire	Jaune
+pas primaire	Vert
+pas primaire	Brun
+primaire	Violet
+primaire	Brun
+pas primaire	Joker
+pas primaire	Violet
+primaire	Vert
+[ILES]
+Khont-Rolah
+Fuego
+Fissah
+Fama
+Finista
+Mutaa
+Massao
+Milaù
+Loà
+Tokha
+Laçao
+Milaù
+Mutaa
+Mokah
+Fuego
+Kiola

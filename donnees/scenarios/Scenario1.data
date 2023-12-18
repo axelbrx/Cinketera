@@ -1,0 +1,19 @@
+[PARAMETRE]
+ROUGE
+-1
+[CARTES]
+primaire	Joker
+primaire	Jaune
+pas primaire	Joker
+primaire	Vert
+pas primaire	Jaune
+primaire	Brun
+primaire	Violet
+pas primaire	Brun
+pas primaire	Vert
+pas primaire	Violet
+primaire	Jaune
+primaire	Violet
+pas primaire	Jaune
+[ILES]
+null

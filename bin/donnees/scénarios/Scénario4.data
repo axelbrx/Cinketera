@@ -1,0 +1,11 @@
+[ORDRE_CARTE]
+0	joker
+0	vert
+0	violet
+0	jaune
+1	brun
+[ROUTES_SELECTIONNER]
+R	Khont-Rolah	Fuego
+R	Fuego	Fissah
+R	Fissah	Fama
+R	Fama	Finista

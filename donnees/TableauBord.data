@@ -1,0 +1,105 @@
+-----------------------------------------------------------------------
+date : 2023/6/16 9h45 duree : 1 score : 36
+manche : 0 |tour : 0 |coup : Creation d'un chemin entre Ticó	Brun	256	200	221	145 et Laçao	Jaune	180	432	130	392
+manche : 0 |tour : 1 |coup : Creation d'un chemin entre Laçao	Jaune	180	432	130	392 et Milaù	Jaune	400	424	362	386
+manche : 0 |tour : 2 |coup : Creation d'un chemin entre Milaù	Jaune	400	424	362	386 et Massao	Violet	448	528	395	491
+manche : 0 |tour : 3 |coup : Creation d'un chemin entre Massao	Violet	448	528	395	491 et Mutaa	Vert	548	392	506	361
+manche : 0 |tour : 4 |coup : Creation d'un chemin entre Mutaa	Vert	548	392	506	361 et Khont-Rolah	Brun	540	208	472	173
+manche : 0 |tour : 5 |coup : Creation d'un chemin entre Khont-Rolah	Brun	540	208	472	173 et Fuego	Violet	764	288	720	244
+manche : 0 |tour : 6 |coup : Creation d'un chemin entre Fuego	Violet	764	288	720	244 et Kiola	Brun	632	116	591	52
+manche : 0 |tour : 7 |coup : Creation d'un chemin entre Kiola	Brun	632	116	591	52 et Kosa	Jaune	504	56	457	12
+manche : 0 |tour : 1 |coup : Tire la carte : Primaire : false | Joker
+manche : 0 |tour : 1 |coup : Creation d'un chemin entre Mutaa	Vert	548	392	506	361 et Mokah	Brun	684	492	624	452
+manche : 0 |tour : 2 |coup : Creation d'un chemin entre Mokah	Brun	684	492	624	452 et Fissah	Brun	860	384	816	331
+manche : 1 |tour : 3 |coup : Creation d'un chemin entre Fissah	Brun	860	384	816	331 et Finista	Jaune	948	308	892	272
+manche : 1 |tour : 5 |coup : Tire la carte : Primaire : false | Brun
+manche : 1 |tour : 6 |coup : Tire la carte : Primaire : false | Jaune
+manche : 1 |tour : 6 |coup : Creation d'un chemin entre Mutaa	Vert	548	392	506	361 et Maÿa	Jaune	580	588	528	553
+manche : 1 |tour : 7 |coup : Creation d'un chemin entre Maÿa	Jaune	580	588	528	553 et Massao	Violet	448	528	395	491
+manche : 1 |tour : 8 |coup : selection de l'ile ou la bifurcation a lieu : Mutaa
+manche : 1 |tour : 8 |coup : Creation d'un chemin entre Mutaa	Vert	548	392	506	361 et Milaù	Jaune	400	424	362	386
+manche : 1 |tour : 9 |coup : Creation d'un chemin entre Finista	Jaune	948	308	892	272 et Fama	Vert	872	232	842	184
+-----------------------------------------------------------------------
+date : 2023/6/16 9h51 duree : 1 score : 41
+manche : 0 |tour : 0 |coup : Creation d'un chemin entre Mutaa	Vert	548	392	506	361 et Khont-Rolah	Brun	540	208	472	173
+manche : 0 |tour : 1 |coup : Creation d'un chemin entre Khont-Rolah	Brun	540	208	472	173 et Fuego	Violet	764	288	720	244
+manche : 0 |tour : 2 |coup : Creation d'un chemin entre Fuego	Violet	764	288	720	244 et Fissah	Brun	860	384	816	331
+manche : 0 |tour : 3 |coup : Creation d'un chemin entre Fissah	Brun	860	384	816	331 et Fama	Vert	872	232	842	184
+manche : 0 |tour : 4 |coup : Creation d'un chemin entre Fama	Vert	872	232	842	184 et Finista	Jaune	948	308	892	272
+manche : 0 |tour : 5 |coup : Creation d'un chemin entre Mutaa	Vert	548	392	506	361 et Massao	Violet	448	528	395	491
+manche : 0 |tour : 6 |coup : Creation d'un chemin entre Massao	Violet	448	528	395	491 et Milaù	Jaune	400	424	362	386
+manche : 0 |tour : 7 |coup : Creation d'un chemin entre Milaù	Jaune	400	424	362	386 et Loà	Violet	252	564	192	491
+manche : 0 |tour : 8 |coup : Creation d'un chemin entre Ticó	Brun	256	200	221	145 et Tokha	Vert	136	248	68	206
+manche : 1 |tour : 9 |coup : Creation d'un chemin entre Tokha	Vert	136	248	68	206 et Laçao	Jaune	180	432	130	392
+manche : 1 |tour : 10 |coup : Creation d'un chemin entre Laçao	Jaune	180	432	130	392 et Milaù	Jaune	400	424	362	386
+manche : 1 |tour : 11 |coup : Creation d'un chemin entre Milaù	Jaune	400	424	362	386 et Mutaa	Vert	548	392	506	361
+manche : 1 |tour : 12 |coup : Creation d'un chemin entre Mutaa	Vert	548	392	506	361 et Mokah	Brun	684	492	624	452
+manche : 1 |tour : 13 |coup : Creation d'un chemin entre Mokah	Brun	684	492	624	452 et Fuego	Violet	764	288	720	244
+manche : 1 |tour : 14 |coup : Creation d'un chemin entre Fuego	Violet	764	288	720	244 et Kiola	Brun	632	116	591	52
+manche : 1 |tour : 15 |coup : Creation d'un chemin entre Kiola	Brun	632	116	591	52 et Kita	Vert	424	156	370	100
+manche : 1 |tour : 17 |coup : Tire la carte : Primaire : true | Vert
+-----------------------------------------------------------------------
+date : 2023/6/16 10h7 duree : 1 score : 34
+manche : 0 |tour : 0 |coup : Creation d'un chemin entre Mutaa	Vert	548	392	506	361 et Mokah	Brun	684	492	624	452
+manche : 0 |tour : 1 |coup : Creation d'un chemin entre Mokah	Brun	684	492	624	452 et Fuego	Violet	764	288	720	244
+manche : 0 |tour : 2 |coup : Creation d'un chemin entre Fuego	Violet	764	288	720	244 et Fama	Vert	872	232	842	184
+manche : 0 |tour : 3 |coup : Creation d'un chemin entre Fama	Vert	872	232	842	184 et Finista	Jaune	948	308	892	272
+manche : 0 |tour : 4 |coup : Creation d'un chemin entre Mutaa	Vert	548	392	506	361 et Milaù	Jaune	400	424	362	386
+manche : 0 |tour : 5 |coup : Creation d'un chemin entre Milaù	Jaune	400	424	362	386 et Loà	Violet	252	564	192	491
+manche : 0 |tour : 7 |coup : Tire la carte : Primaire : false | Joker
+manche : 0 |tour : 7 |coup : Creation d'un chemin entre Loà	Violet	252	564	192	491 et Laçao	Jaune	180	432	130	392
+manche : 0 |tour : 8 |coup : Creation d'un chemin entre Laçao	Jaune	180	432	130	392 et Ticó	Brun	256	200	221	145
+manche : 0 |tour : 0 |coup : Creation d'un chemin entre Ticó	Brun	256	200	221	145 et Kita	Vert	424	156	370	100
+manche : 0 |tour : 1 |coup : Creation d'un chemin entre Ticó	Brun	256	200	221	145 et Tavula	Violet	108	100	33	60
+manche : 0 |tour : 2 |coup : Creation d'un chemin entre Kita	Vert	424	156	370	100 et Khont-Rolah	Brun	540	208	472	173
+manche : 0 |tour : 3 |coup : Creation d'un chemin entre Khont-Rolah	Brun	540	208	472	173 et Milaù	Jaune	400	424	362	386
+manche : 1 |tour : 4 |coup : Creation d'un chemin entre Tavula	Violet	108	100	33	60 et Tokha	Vert	136	248	68	206
+manche : 1 |tour : 5 |coup : Creation d'un chemin entre Tokha	Vert	136	248	68	206 et Laçao	Jaune	180	432	130	392
+manche : 1 |tour : 6 |coup : Creation d'un chemin entre Laçao	Jaune	180	432	130	392 et Loümu	Violet	72	516	10	462
+manche : 1 |tour : 7 |coup : Creation d'un chemin entre Loümu	Violet	72	516	10	462 et Loà	Violet	252	564	192	491
+manche : 1 |tour : 9 |coup : Tire la carte : Primaire : true | Brun
+manche : 1 |tour : 9 |coup : selection de l'ile ou la bifurcation a lieu : Khont-Rolah
+manche : 1 |tour : 9 |coup : Creation d'un chemin entre Khont-Rolah	Brun	540	208	472	173 et Kiola	Brun	632	116	591	52
+-----------------------------------------------------------------------
+date : 2023/6/16 12h54 duree : 1 score : 29
+manche : 0 |tour : 0 |coup : Creation d'un chemin entre Mutaa	Vert	548	392	506	361 et Khont-Rolah	Brun	540	208	472	173
+manche : 0 |tour : 1 |coup : Creation d'un chemin entre Khont-Rolah	Brun	540	208	472	173 et Kita	Vert	424	156	370	100
+manche : 0 |tour : 3 |coup : Tire la carte : Carte primaire Joker
+manche : 0 |tour : 3 |coup : Creation d'un chemin entre Mutaa	Vert	548	392	506	361 et Mokah	Brun	684	492	624	452
+manche : 0 |tour : 4 |coup : Creation d'un chemin entre Mokah	Brun	684	492	624	452 et Maÿa	Jaune	580	588	528	553
+manche : 0 |tour : 5 |coup : Creation d'un chemin entre Kita	Vert	424	156	370	100 et Kosa	Jaune	504	56	457	12
+manche : 0 |tour : 6 |coup : Creation d'un chemin entre Kosa	Jaune	504	56	457	12 et Kiola	Brun	632	116	591	52
+manche : 0 |tour : 7 |coup : selection de l'ile ou la bifurcation a lieu : Kita
+manche : 0 |tour : 7 |coup : Creation d'un chemin entre Kita	Vert	424	156	370	100 et Ticó	Brun	256	200	221	145
+manche : 0 |tour : 8 |coup : Creation d'un chemin entre Ticó	Brun	256	200	221	145 et Tavula	Violet	108	100	33	60
+manche : 0 |tour : 0 |coup : Creation d'un chemin entre Ticó	Brun	256	200	221	145 et Laçao	Jaune	180	432	130	392
+manche : 0 |tour : 1 |coup : Creation d'un chemin entre Laçao	Jaune	180	432	130	392 et Loà	Violet	252	564	192	491
+manche : 1 |tour : 2 |coup : Creation d'un chemin entre Loà	Violet	252	564	192	491 et Loümu	Violet	72	516	10	462
+manche : 1 |tour : 3 |coup : Creation d'un chemin entre Ticó	Brun	256	200	221	145 et Tiamù	Jaune	232	64	177	28
+manche : 1 |tour : 4 |coup : Creation d'un chemin entre Loümu	Violet	72	516	10	462 et Lokha	Vert	112	648	52	601
+manche : 1 |tour : 6 |coup : Tire la carte : Carte secondaire Joker
+manche : 1 |tour : 7 |coup : Tire la carte : Carte primaire Brun
+manche : 1 |tour : 8 |coup : Tire la carte : Carte secondaire Brun
+manche : 1 |tour : 9 |coup : Tire la carte : Carte primaire Joker
+manche : 1 |tour : 9 |coup : selection de l'ile ou la bifurcation a lieu : Laçao
+manche : 1 |tour : 9 |coup : Creation d'un chemin entre Laçao	Jaune	180	432	130	392 et Milaù	Jaune	400	424	362	386
+-----------------------------------------------------------------------
+date : 2023/6/16 12h56 duree : 2 score : 43
+manche : 0 |tour : 0 |coup : Creation d'un chemin entre Mutaa	Vert	548	392	506	361 et Khont-Rolah	Brun	540	208	472	173
+manche : 0 |tour : 1 |coup : Creation d'un chemin entre Khont-Rolah	Brun	540	208	472	173 et Fuego	Violet	764	288	720	244
+manche : 0 |tour : 2 |coup : Creation d'un chemin entre Fuego	Violet	764	288	720	244 et Fissah	Brun	860	384	816	331
+manche : 0 |tour : 3 |coup : Creation d'un chemin entre Fissah	Brun	860	384	816	331 et Fama	Vert	872	232	842	184
+manche : 0 |tour : 4 |coup : Creation d'un chemin entre Fama	Vert	872	232	842	184 et Finista	Jaune	948	308	892	272
+manche : 0 |tour : 5 |coup : Creation d'un chemin entre Mutaa	Vert	548	392	506	361 et Massao	Violet	448	528	395	491
+manche : 0 |tour : 6 |coup : Creation d'un chemin entre Massao	Violet	448	528	395	491 et Milaù	Jaune	400	424	362	386
+manche : 0 |tour : 7 |coup : Creation d'un chemin entre Milaù	Jaune	400	424	362	386 et Loà	Violet	252	564	192	491
+manche : 0 |tour : 8 |coup : Creation d'un chemin entre Ticó	Brun	256	200	221	145 et Tokha	Vert	136	248	68	206
+manche : 1 |tour : 9 |coup : Creation d'un chemin entre Tokha	Vert	136	248	68	206 et Laçao	Jaune	180	432	130	392
+manche : 1 |tour : 10 |coup : Creation d'un chemin entre Laçao	Jaune	180	432	130	392 et Milaù	Jaune	400	424	362	386
+manche : 1 |tour : 11 |coup : Creation d'un chemin entre Milaù	Jaune	400	424	362	386 et Mutaa	Vert	548	392	506	361
+manche : 1 |tour : 12 |coup : Creation d'un chemin entre Mutaa	Vert	548	392	506	361 et Mokah	Brun	684	492	624	452
+manche : 1 |tour : 13 |coup : Creation d'un chemin entre Mokah	Brun	684	492	624	452 et Fuego	Violet	764	288	720	244
+manche : 1 |tour : 14 |coup : Creation d'un chemin entre Fuego	Violet	764	288	720	244 et Kiola	Brun	632	116	591	52
+manche : 1 |tour : 15 |coup : Creation d'un chemin entre Kiola	Brun	632	116	591	52 et Khont-Rolah	Brun	540	208	472	173
+manche : 1 |tour : 17 |coup : Tire la carte : Carte primaire Vert
+manche : 1 |tour : 17 |coup : Creation d'un chemin entre Khont-Rolah	Brun	540	208	472	173 et Kita	Vert	424	156	370	100

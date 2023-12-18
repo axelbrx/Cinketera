@@ -1,0 +1,26 @@
+[PARAMETRE]
+BLEU
+5
+[CARTES]
+pas primaire	Brun
+primaire	Joker
+pas primaire	Violet
+primaire	Brun
+primaire	Vert
+primaire	Jaune
+primaire	Violet
+pas primaire	Joker
+pas primaire	Jaune
+primaire	Vert
+pas primaire	Brun
+primaire	Violet
+pas primaire	Vert
+primaire	Joker
+primaire	Jaune
+pas primaire	Violet
+primaire	Brun
+[ILES]
+Mokah
+Fissah
+Fuego
+Kiola
